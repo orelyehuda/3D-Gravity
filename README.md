@@ -3,9 +3,8 @@
 
 ## Running the 3D N-BDOY ORBITAL MECHANICS program:
 
-To run pass the 3d model to load via the command line:
+In the npp file, Press F6 and compile_run to run thr program
 
-    bin/myfirstvsgapplication models/lz.vsgt
 
 This is what you should see:
 
