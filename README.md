@@ -9,5 +9,5 @@ To run pass the 3d model to load via the command line:
 
 This is what you should see:
 
-![myfirstvsgapplication lz.vsgt](https://raw.githubusercontent.com/vsg-dev/MyFirstVsgApplication/master/images/3Dgex.png)
+![myfirstvsgapplication lz.vsgt](https://github.com/yehuda7/3D-Gravity/edit/master/images/3Dgex.png)
 
