@@ -8,5 +8,5 @@ In the npp file, Press F6 and compile_run to run thr program
 
 This is what you should see:
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![3D Demo](images/demo3.gif)]
 
