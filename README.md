@@ -8,5 +8,5 @@ In the npp file, Press F6 and compile_run to run thr program
 
 This is what you should see:
 
-![3Dgex.png](https://raw.githubusercontent.com/yehuda7/3D-Gravity/edit/master/images/3Dgex.png)
+[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
