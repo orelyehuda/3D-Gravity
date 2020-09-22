@@ -11,6 +11,7 @@ This is what you should see:
 [![3D Demo](images/demo3.gif)]
 
 # USE
- 'z' to add a random orbiter
- 'x' to add a perfect orbiter around biggest star
- 'e' clear all orbiters
+
+ -'z' to add a random orbiter
+ -'x' to add a perfect orbiter around biggest star
+ -'e' clear all orbiters
